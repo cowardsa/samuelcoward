@@ -1,3 +1,4 @@
+![Image](website_profile.jpg){: style="float: left"}
 Hi, I'm currently an Imperial College London PhD student in the Circuits and Systems Group, under the supervision of [Professor George Constantinides](https://cas.ee.ic.ac.uk/people/gac1/).
 My research looks at all aspects of numerical hardware design and how we can create fast but verified hardware. My main project looks at novel techniques to optimise RTL level circuit designs.
 
