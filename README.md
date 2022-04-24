@@ -1,21 +1,8 @@
-<html>
-<body>
 <p>
 <img src="website_profile.jpg" alt="Smiley face" style="float:left;width:200px;">
 Hi, I'm currently an Imperial College London PhD student in the Circuits and Systems Group, under the supervision of [Professor George Constantinides](https://cas.ee.ic.ac.uk/people/gac1/).
 My research looks at all aspects of numerical hardware design and how we can create fast but verified hardware. My main project looks at novel techniques to optimise RTL level circuit designs.
 </p>
-
-<div style="display:inline-block;vertical-align:top;">
-<img src="https://loremflickr.com/320/240" alt="img"/>
-</div>
-<div style="display:inline-block;">
-<p>
-Here goes the text content.
-</p>
-</div>
-</body>
-</html>
 
 ### Publications
 **EGRAPHS 22** - [Abstract Interpretation on E-Graphs](https://arxiv.org/abs/2203.09191) - co-located with PLDI 22
